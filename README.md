@@ -5,6 +5,5 @@ I'm a passionate React developer with a love for creating interactive and user-f
 ## 🚀 Skills
 
 - **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frontend:** React, HTML5, CSS3,Tailwind Css 
+- **Frontend:** React, HTML5, CSS3, TAILWIND CSS
 - **Version Control:** Git, GitHub
-
