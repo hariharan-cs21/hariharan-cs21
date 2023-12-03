@@ -12,6 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharan-cs21&show_icons=true&locale=en&layout=compact" alt="hariharan-cs21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharan-cs21&show_icons=true&locale=en" alt="hariharan-cs21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-cs21&" alt="hariharan-cs21" /></p>
