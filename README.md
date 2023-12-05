@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate React developer</h3>
 
-- 🌱 I’m currently learning **Redux RTK**
+🌱 I’m currently learning **Redux RTK**
 
-- 💬 Ask me about **react**
+💬 Ask me about **react**
 
 
 
