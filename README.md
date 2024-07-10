@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student Web Developer
+Web Developer
 
 
 ## 🌐 Socials:
