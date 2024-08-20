@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer
+Web Developer | Optimist
 
 
 ## 🌐 Socials:
