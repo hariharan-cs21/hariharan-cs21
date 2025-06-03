@@ -14,9 +14,13 @@ Web Developer | Optimist
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white)
 
-## 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+## 🖥️ Backend Development  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)  
+![JPQL](https://img.shields.io/badge/JPQL-007396?style=flat&logo=hibernate&logoColor=white)
+
 
 ## 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
